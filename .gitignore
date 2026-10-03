@@ -1,0 +1,13 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+sim
+sim.exe
+
+# Build folders (if you ever reintroduce CMake)
+build/
+out/
+
+# Editor folders
+.vscode/
